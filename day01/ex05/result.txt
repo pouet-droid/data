@@ -1,0 +1,4 @@
+coco.sh
+result.txt
+Tue Oct 19 15:26:23 UTC 2021
+vagrant  pts/0        2021-10-19 11:55 (10.0.2.2)
