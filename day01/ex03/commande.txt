@@ -1,3 +1,1 @@
-mkdir "\?\'\*it_Akademy\*\'\?\"
-
-La commande fonctionne sur tout les ordis sauf le miens.
+mkdir \"\\\?\'\*it_Akademy\*\'\?\\\"
