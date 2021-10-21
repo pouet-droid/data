@@ -1,2 +1,4 @@
+Test de chez moi avec deux cmd :
+
 Avec le premier termial : nc -l 8888 
 Avec le deuxième termial : nc localhost 8888
